@@ -1,0 +1,44 @@
+body {
+    background-image: url("http://www.lfvh.com/cn/images/background3.jpg");
+    background-color: #cccccc;
+}
+h1{
+    font-style:  oblique;
+    font-size:  255%;
+    font-size: 3em; 
+    text-shadow: 2px 2px red;
+
+}
+h3 {
+    color: white;
+    font-style: oblique;
+}
+
+body {
+    color: yellow;
+}
+p{
+    font-style:italic;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+}
+
+h2 {
+    font-size: 2em; 
+}
+
+p {
+    font-size: 1em;
+}
+nav {
+    float: right;
+    width:200px;
+}
+section  {
+    margin-right:200px;
+}
+
+
+
